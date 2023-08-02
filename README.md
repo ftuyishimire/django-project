@@ -1,2 +1,2 @@
 # django-project
-simple project for online shopping 
+simple project for E-commerce
