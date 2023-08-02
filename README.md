@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Website (Project Name)
 
 ## Description
@@ -18,3 +19,7 @@ Coming Soon! (To be updated when the project is completed)
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](/LICENSE) for details.
+=======
+# django-project
+simple project for E-commerce
+>>>>>>> f1f3b49e52bf8d7d61598d8e7b9e81f83047f6f2
